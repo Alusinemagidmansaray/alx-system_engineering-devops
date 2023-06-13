@@ -1,2 +1,2 @@
-"0x02 shell lo redirection filters"
+"0x02 shell lo directions filters"
 
